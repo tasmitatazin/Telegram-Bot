@@ -1,7 +1,7 @@
 from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
-TOKEN: Final = '7843834528:AAHWa_QysuoeG744adePrQiZRxhuFt-WpBQ'
+TOKEN: Final = #add token here
 BOT_USERNAME: Final = '@banana_egg_milk_bot'
 
 #create a start command 
